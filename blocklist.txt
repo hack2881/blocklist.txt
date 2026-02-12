@@ -107,6 +107,7 @@
 
 !---Advertenties voor Europa,Midden-Oosten en Afrika---
 ||ad-emea.doubleclick.net^
+||dart.l.doubleclick.net^
 
 !---Advertenties voor Azië-Pacific---
 ||ad-apac.doubleclick.net^
