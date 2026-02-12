@@ -1,0 +1,112 @@
+! Title: My DoubleClick Blocklist
+! Description: Blokkeert alle domeinen van doubleclick.net
+! Version: 1.0
+! --------------------------------------------------
+
+||doubleclick.net^
+||iv.doubleclick.net^
+||secureframe.doubleclick.net^
+||publisherportal.doubleclick.net^
+||motifbeta.doubleclick.net^
+||td.doubleclick.net^
+||n479ad.doubleclick.net^
+||motifcdn2.doubleclick.net^
+||ad.doubleclick.net^
+||www.doubleclick.net^
+||dsengine.doubleclick.net^
+||g.doubleclick.net^
+||s1.doubleclick.net^
+||dmp.doubleclick.net^
+||gdsmapi.doubleclick.net^
+||creative.doubleclick.net^
+||betaadvertisers.doubleclick.net^
+||dfp.doubleclick.net^
+||reports.doubleclick.net^
+||betadfp.doubleclick.net^
+||paypalssl.doubleclick.net^
+||apac.doubleclick.net^
+||n4403ad.doubleclick.net^
+||ebayssl.doubleclick.net^
+||dfpreports.doubleclick.net^
+||creatives.doubleclick.net^
+||learn.doubleclick.net^
+||ad-g.doubleclick.net^
+||betareportcentral.doubleclick.net^
+||salesmanager.doubleclick.net^
+||search.doubleclick.net^
+||ad-ace.doubleclick.net^
+||betamediavisor.doubleclick.net^
+||ad-apac.doubleclick.net^
+||dfpapi.doubleclick.net^
+||betastudio.doubleclick.net^
+||fls.doubleclick.net^
+||ir.doubleclick.net^
+||www3.doubleclick.net^
+||reportcentral.doubleclick.net^
+||dnb.doubleclick.net^
+||static.doubleclick.net^
+||dsmreports.doubleclick.net^
+||g0.doubleclick.net^
+||accounts.doubleclick.net^
+||sitedirectory.doubleclick.net^
+||dsm.doubleclick.net^
+||studio.doubleclick.net^
+||www2.doubleclick.net^
+||s0.doubleclick.net^
+||advertisers.doubleclick.net^
+||gan.doubleclick.net^
+||emea.doubleclick.net^
+||l.doubleclick.net^
+||ad2.doubleclick.net^
+||motif.doubleclick.net^
+
+!---g1.doubleclick.net---
+||g1.doubleclick.net^
+||g2.doubleclick.net^
+||g3.doubleclick.net^
+
+||motifcdn.doubleclick.net^
+||serverside.doubleclick.net^
+||help.doubleclick.net^
+||dfpdashboard.doubleclick.net^
+||n4052ad.doubleclick.net^
+||betadsm.doubleclick.net^
+
+!---Mobiele advertenties---
+||m.doubleclick.net^
+||mediavisor.doubleclick.net^
+||pagead46.l.doubleclick.net^
+||pubads-att.g.doubleclick.net^
+||securepubads.g.doubleclick.net^
+||stats.g.doubleclick.net^
+||static.doubleclick.net^
+
+!---Advertentieweergave en -services---
+||googleads.g.doubleclick.net^
+||googleads4.g.doubleclick.net^
+
+!---Google Affiliate Network---
+||gan.doubleclick.net^
+
+!---Conversion Manager/Tracking---
+||cm.g.doubleclick.net^
+||dart.l.doubleclick.net^
+||ff.doubleclick.net^
+
+!---Bieden op advertentieruimte---
+||bid.g.doubleclick.net^
+
+!---Ad Exchange---
+||adx.g.doubleclick.net^
+
+!---Advertentieklikregistratie---
+||adclick.g.doubleclick.net^
+
+!---Algemene advertentieweergave---
+||ad.doubleclick.net^
+
+!---Advertenties voor Europa,Midden-Oosten en Afrika---
+||ad-emea.doubleclick.net^
+
+!---Advertenties voor Azië-Pacific---
+||ad-apac.doubleclick.net^
